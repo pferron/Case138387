@@ -1,0 +1,12 @@
+python-dotenv
+requests
+pandas
+geopandas
+fiona
+scipy
+# numpy>=1.22.0 #Uncomment if needed, miniumum of 1.22.0 is required for infosec scans. 
+# psycopg2  # Uncomment if needed
+# seaborn  # Uncomment if needed
+# pysal  # Uncomment if needed
+# us  # Uncomment if needed
+# census  # Uncomment if needed
